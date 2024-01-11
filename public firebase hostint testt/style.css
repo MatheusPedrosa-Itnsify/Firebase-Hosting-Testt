@@ -6,7 +6,8 @@
 
 body{
     min-height: calc(100vh - 160px);
-    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    /* background: linear-gradient(to right, #0F2027, #203A43, #2C5364); */
+    background: linear-gradient(to right, #8E2DE2, #4A00E0);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
